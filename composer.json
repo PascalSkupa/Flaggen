@@ -1,0 +1,7 @@
+{
+    "name": "sku/flaggen",
+    "description": "flaggenbsp",
+    "type": "library",
+    "license": "apache",
+    "require": {}
+}
